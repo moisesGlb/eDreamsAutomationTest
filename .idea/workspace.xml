@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3926b797-f0b7-4a67-acdd-fbbfb93fb6bd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RlSkSn3anqlGWP3mbWtbr59oKC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/moises.salas/Documents/automation/traning/cursoFannyM/eDreamsAutomationTest&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moises.salas\Documents\automation\traning\cursoFannyM\eDreamsAutomationTest" />
+      <recent name="C:\Users\moises.salas\Documents\automation\traning\cursoFannyM\eDreamsAutomationTest\src\test\resources\excel" />
+      <recent name="C:\Users\moises.salas\Documents\automation\traning\cursoFannyM\eDreamsAutomationTest\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moises.salas\Documents\automation\traning\cursoFannyM\eDreamsAutomationTest\src\test\resources\excel" />
+      <recent name="C:\Users\moises.salas\Documents\automation\traning\cursoFannyM\eDreamsAutomationTest\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/moises.salas/Documents/automation/traning/cursoFannyM/eDreamsAutomationTest/testSuite.xml">
+    <configuration name="C:/Users/moises.salas/Documents/automation/traning/cursoFannyM/eDreamsAutomationTest/testSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eDreamsAutomationTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="searchFlightsTest.searchFlight" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="eDreamsAutomationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.searchFlightsTest" />
+      <option name="METHOD_NAME" value="searchFlight" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/moises.salas/Documents/automation/traning/cursoFannyM/eDreamsAutomationTest/testSuite.xml" />
+        <item itemvalue="TestNG.searchFlightsTest.searchFlight" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3926b797-f0b7-4a67-acdd-fbbfb93fb6bd" name="Changes" comment="" />
+      <created>1687823322647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687823322647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/searchFlightsTest.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
